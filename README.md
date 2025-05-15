@@ -30,13 +30,13 @@ _(Puedes agregar o quitar según tus herramientas preferidas)_
 
 ---
 
-## 📁 Algunos de mis proyectos
+_##📁Algunos de mis proyectos_
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
+_| Proyecto | Descripción | Tecnologías |_
+_|---------|-------------|-------------|
 | [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1) | Breve descripción del proyecto. | React, Node.js |
 | [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) | Otro ejemplo con alguna funcionalidad destacada. | Python, Flask |
-| [Nombre del Proyecto 3](https://github.com/tuusuario/proyecto3) | Proyecto personal o contribución a OSS. | Vue, Firebase |
+| [Nombre del Proyecto 3](https://github.com/tuusuario/proyecto3) | Proyecto personal o contribución a OSS. | Vue, Firebase |_
 
 ---
 
