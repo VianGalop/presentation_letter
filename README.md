@@ -30,16 +30,6 @@ _(Puedes agregar o quitar según tus herramientas preferidas)_
 
 ---
 
-_(##📁Algunos de mis proyectos)_
-
-_(| Proyecto | Descripción | Tecnologías |)_
-_(|---------|-------------|-------------|
-| [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1) | Breve descripción del proyecto. | React, Node.js |
-| [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) | Otro ejemplo con alguna funcionalidad destacada. | Python, Flask |
-| [Nombre del Proyecto 3](https://github.com/tuusuario/proyecto3) | Proyecto personal o contribución a OSS. | Vue, Firebase |)_
-
----
-
 ## 📫 ¿Quieres contactarme?
 
 - Email: vianygali10@gmail.com
