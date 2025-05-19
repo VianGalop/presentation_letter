@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Vianey Galicia
 
-Soy Desarrollador Full Stack con pasión por la tecnología, resolver problemas.
+Soy desarrollador Full Stack con una pasión por la tecnología y resolucion de problemas.
 
 Actualmente me dedico a:
 - 💻 Trabajar en Ingeaa.
-- 📚 Aprender typescript.
-- 🚀 Desarrollar propio portafolio.
+- 📚 Aprende typescript y python.
+- 🚀 Desarrollar mi propio portafolio.
 
 ---
 
