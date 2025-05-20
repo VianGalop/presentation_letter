@@ -30,8 +30,6 @@ Actualmente me dedico a:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-_(Puedes agregar o quitar según tus herramientas preferidas)_
-
 ---
 
 ## 📫 ¿Quieres contactarme?
@@ -42,4 +40,4 @@ _(Puedes agregar o quitar según tus herramientas preferidas)_
 
 ---
 
-_Gracias por visitar mi perfil. ¡Estoy abierto/a a colaborar y aprender juntos!_
+_Gracias por visitar mi perfil. ¡Estoy abierta a colaborar y aprender juntos!_
