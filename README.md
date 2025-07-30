@@ -3,17 +3,16 @@
 Soy desarrollador Full Stack con una pasión por la tecnología y resolucion de problemas.
 
 Actualmente me dedico a:
-- 💻 Trabajo en Ingeaa.
 - 📚 Aprendiendo Python y PHP.
-- 🚀 Desarrollando nuevos proyectos propios para mi propio portafolio.
+- 🚀 Desarrollar nuevos proyectos propios para mi portafolio.
 
 ---
 
 ## 💡 Sobre mí
-
+- 💻 Trabaje en Ingeaa.
 - 🎓 Formación: Licenciatura en Ciencia de la Computacion
 - 🌍 Ubicación: Mexico
-- 🌱 Intereses: Desarrollo web, desarrollo Movil e Inteligencia Artificial
+- 🌱 Intereses: Desarrollo web, desarrollo movil e Inteligencia Artificial
 - 🧠 Siempre estoy buscando mejorar mis habilidades y colaborar en proyectos interesantes.
 
 ---
